@@ -3,6 +3,9 @@
 - [[3. Regularni izrazi]] (23. 10. 2024)
 - [[4. Lema o napihovanju za RJ]] (30. 10. in 6. 11. 2024)
 - [[5. Kontekstno neodvisne gramatike]] (6. 11. 2024)
+- [[6. Skladovni avtomati]] (13. 11 .2024)
+- [[7. Lastnosti KNJ]] (27. 11. 2024)
+- [[8. Turingovi stroji]] (4. 12. 2024)
 ## Delovni pristop
 
 ## Problemi in omejitve
